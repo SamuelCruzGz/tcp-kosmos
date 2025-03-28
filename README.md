@@ -15,3 +15,5 @@ Para el directorio debe de ser tu directorio de descarga más tcp/client.py
 Ejemplo:
 > /home/samuel-cruz/tcp/client.py
 
+Posterior ejecutar el comando 
+> python3 server.py
